@@ -25,7 +25,7 @@ for i in range(1,number_count+1):
     char = random.choice(numbers)
     password += char
 
-for i in range(1,number_count+1):
+for i in range(1,symbols_count+1):
     char = random.choice(symbols)
     password += char    
 
