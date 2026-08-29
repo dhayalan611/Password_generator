@@ -6,6 +6,6 @@ Python project that checks password strength based on:
 * **Numbers**
 * **Special characters**
 
-**Strength:**Weak/Meadium/Strong
-**Score:**0-5
+1. **Strength:**Weak/Meadium/Strong
+2. **Score:**0-5
 
